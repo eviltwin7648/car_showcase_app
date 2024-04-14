@@ -20,6 +20,7 @@ const Navbar = () => {
     </Link>
 
     <CustomButton
+    handleClick={()=>{}}
     title="Sign-In"
     btnType="button"
     containerStyles="text-primary-blue rounded-full bg-white min-w-[130px]"
